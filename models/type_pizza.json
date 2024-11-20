@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name_pizza": "Simple",
+    "ingredients": [
+      "dough",
+      "tomato",
+      "Mozzarella"
+    ],
+    "price": 7
+  },
+  {
+    "id": 2,
+    "name_pizza": "Margherita",
+    "ingredients": [
+      "dough",
+      "tomato",
+      "Mozzarella",
+      "Fresh basil",
+      "Olive oil"
+    ],
+    "price": 8
+  },
+  {
+    "id": 3,
+    "name_pizza": "Pepperoni",
+    "ingredients": [
+      "dough",
+      "tomato",
+      "Mozzarella",
+      "Pepperoni"
+    ],
+    "price": 9
+  },
+  {
+    "id": 4,
+    "name_pizza": "Hawaiian",
+    "ingredients": [
+      "dough",
+      "tomato",
+      "Mozzarella",
+      "Ham",
+      "Pineapple"
+    ],
+    "price": 10
+  }
+]

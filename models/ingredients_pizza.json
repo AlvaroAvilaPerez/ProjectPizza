@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "tomato",
+    "price": 2
+  },
+  {
+    "id": 2,
+    "name": "olives",
+    "price": 2
+  },
+  {
+    "id": 3,
+    "name": "cheese",
+    "price": 3
+  },
+  {
+    "id": 4,
+    "name": "mushrooms",
+    "price": 4
+  },
+  {
+    "id": 5,
+    "name": "peppers",
+    "price": 2
+  },
+  {
+    "id": 6,
+    "name": "basil",
+    "price": 2
+  },
+  {
+    "id": 7,
+    "name": "ham",
+    "price": 2
+  },
+  {
+    "id": 8,
+    "name": "pineapple",
+    "price": 2
+  }
+]
